@@ -8,3 +8,24 @@
 ## Project --1: Form
 ### --Description--
 Learn and apply page formatting using HTML and CSS
+## Project Skeleton 
+
+```
+--1-form (folder)
+|
+|----readme.md                  
+        |----index.html  
+        |----style.css   
+         
+```
+### At the end of the project, following topics are to be covered;
+
++ HTML Forms-Input Types 
+
++ HTML Form Elements
+
++ CSS Colors-Border Properties
+
++ CSS Margins-Padding
+
++ CSS Properties for Texts-Font Families-Links
